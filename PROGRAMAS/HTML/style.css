@@ -1,0 +1,15 @@
+p{
+    font-size:25px;
+}
+ul{
+        font-size: 25px;
+}
+.caixa{
+    width:170px;
+    height:100px;
+    background-color: rgb(227, 103, 136);
+    margin:50px;
+    padding:15px;
+    border: 2px solid black;
+    float: left;
+}
